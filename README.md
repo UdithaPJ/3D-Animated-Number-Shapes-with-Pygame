@@ -19,8 +19,8 @@ To run this project, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/3d-animated-numbers.git
-   cd 3d-animated-numbers
+   git clone https://github.com/UdithaPJ/3D-Animated-Number-Shapes-with-Pygame.git
+   cd 3D-Animated-Number-Shapes-with-Pygame
    ```
 2. **Install dependencies**:
    ```sh
